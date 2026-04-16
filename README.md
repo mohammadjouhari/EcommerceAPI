@@ -38,6 +38,7 @@ Ecommerce.Domain        --> Core Entities
 * SQL Server
 * ASP.NET Identity
 * JWT Authentication
+* LINQ
 * AutoMapper
 * Repository Pattern
 * Dependency Injection
